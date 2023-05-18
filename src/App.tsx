@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import { Profile } from "./components/study/Profile";
-import Counter from "./components/study/Counter";
+import { Counter } from "./components/study/Counter";
 import Todolist from "./components/study/Todolist";
 
 const App = () => {
